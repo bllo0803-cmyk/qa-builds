@@ -1,0 +1,17 @@
+{
+  "project": "mallangmon002",
+  "kind": "apk",
+  "mode": "debug",
+  "buildId": "20261116-163624",
+  "builtAt": "2026-11-16T07:36:32.550Z",
+  "host": "choisgui-MacBookPro",
+  "godotVersion": "4.7.2",
+  "sourceFingerprint": "b945be886b9a",
+  "sourceFiles": 277,
+  "changedSinceLastBuild": 0,
+  "android": {
+    "packageName": "com.company.mallangmon002",
+    "versionCode": 985416,
+    "versionName": "1.0.0"
+  }
+}
