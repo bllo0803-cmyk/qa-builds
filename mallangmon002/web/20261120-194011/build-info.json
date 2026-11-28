@@ -1,0 +1,13 @@
+{
+  "project": "mallangmon002",
+  "kind": "web",
+  "mode": "release",
+  "buildId": "20261120-194011",
+  "builtAt": "2026-11-20T10:40:14.248Z",
+  "host": "choisgui-MacBookPro",
+  "toolVersion": "0.1.0",
+  "godotVersion": "4.7.2",
+  "sourceFingerprint": "bd5184da80aa",
+  "sourceFiles": 417,
+  "changedSinceLastBuild": null
+}
